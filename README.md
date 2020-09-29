@@ -1,4 +1,4 @@
-# Analytical-Reports
+# Solar Energy Analysis
 Solar Energy Analysis
 
 Case Overview
